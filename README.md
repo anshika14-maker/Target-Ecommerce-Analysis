@@ -52,7 +52,7 @@ Delivery time was calculated using purchase and actual delivery dates. The analy
 - Monitor delayed orders and improve customer communication when delays occur.
 ## 📂 Project Files
 
-- `Target-Ecommerce-Sales-Analysis.pdf` - Detailed project analysis and findings
+- [Target-Ecommerce-Sales-Analysis.pdf](https://github.com/anshika14-maker/Target-Ecommerce-Analysis/blob/main/Target.pdf) - Detailed project analysis and findings
 
 ## 👩‍💻 Author
 
